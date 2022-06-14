@@ -1,0 +1,2 @@
+# flutter_tabview_demo
+Flutter tab view demo , is help to developer to create tab. In this demo we create Three Tab and name is Basic, Examples, Formula. The Basic tab has calculator, Example tab has how to use calculator and Finally Formula tab has some easy formula like tringle, circle, rectangle etc. Also I created calculator keypad by adding dynamic button widget. Hope it may be very useful for flutter beginner. Youtube url is https://www.youtube.com/watch?v=AZAiJS2kjE4
